@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.1.15)  18 JAN 2021 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.1.15)  18 JAN 2021 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,8 +447,8 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box53
 )
 (./analysis.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -587,37 +587,131 @@ l.28 ...ría Informática. Universidad de Oviedo.}
 ? 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
 
-LaTeX Warning: Empty `thebibliography' environment on input line 81.
+! LaTeX Error: Undefined color `Blue'.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 ...adrid, \url{https://youtu.be/uVIt4MX7kvU}
+                                                  . Última vez accedido 18 ...
+
+? 
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+09.
+(/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+09.
+
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+09.
+
+(/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+109.
+
+(/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+109.
+
+(/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 109.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 109.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 109.
+
+
+! LaTeX Error: Undefined color `Blue'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 ...adrid, \url{https://youtu.be/Z-iYw9gEpEM}
+                                                  . Última vez accedido 18 ...
+
+? 
+
+! LaTeX Error: Undefined color `Blue'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...nimo), \url{https://youtu.be/B_i8_WuyqAY}
+                                                  . Última vez accedido 18 ...
+
+? 
+
+! LaTeX Error: Undefined color `Blue'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...gnion, \url{https://youtu.be/rrqx-zSOTdw}
+                                                  . Última vez accedido 18 ...
+
+? 
+
+! LaTeX Error: Undefined color `Blue'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 ...gnion, \url{https://youtu.be/MrsJNmwoX6g}
+                                                  . Última vez accedido 18 ...
+
+? 
 
 AED: lastpage setting LastPage
-[3] [4] (./analysis.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+[7] (./analysis.aux
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
 )
 Package rerunfilecheck Info: File `analysis.out' has not changed.
 (rerunfilecheck)             Checksum: 3A5C999A25268D13D0FC0BBD38F35124;860.
  ) 
 Here is how much of TeX's memory you used:
- 11758 strings out of 479383
- 178274 string characters out of 5875830
- 565630 words of memory out of 5000000
- 28635 multiletter control sequences out of 15000+600000
- 436137 words of font info for 60 fonts, out of 8000000 for 9000
+ 11948 strings out of 479383
+ 181985 string characters out of 5875830
+ 567818 words of memory out of 5000000
+ 28767 multiletter control sequences out of 15000+600000
+ 451183 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,72p,916b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,6n,72p,2288b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
-nts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr
-10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf
--dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public
-/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on analysis.pdf (4 pages, 175172 bytes).
+nts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmb
+x12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texm
+f-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type
+1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+
+Output written on analysis.pdf (7 pages, 246535 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 10857 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 159 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 14953 words of extra memory for PDF output out of 17280 (max. 10000000)
 
