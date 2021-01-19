@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}De dónde venimos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Foucault, sociedades y biopolítica}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Deleuze y las sociedades de control}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Privacidad pasada}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Dónde estamos}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tipos medibles}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Biopolítica de los dividuos}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Privacidad presente}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Hacia dónde deberíamos ir}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Privacidad futura}{9}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Ghost in the shell}{9}{section.5}%
